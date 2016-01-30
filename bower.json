@@ -2,7 +2,7 @@
   "name": "parally",
   "description": "Small, simple, flexible scrolling parallax effect jQuery library.",
   "homepage": "https://github.com/DavisMiculis/parally",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": [
     "parally.js",
     "parally.min.js"
