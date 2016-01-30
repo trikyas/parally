@@ -1,0 +1,33 @@
+{
+  "name": "parally",
+  "description": "Small, simple, flexible scrolling parallax effect jQuery library.",
+  "homepage": "https://github.com/DavisMiculis/parally",
+  "version": "1.0.0"
+  "main": [
+    "parally.js",
+    "parally.min.js"
+  ],
+  "dependencies": {
+    "jquery": "latest"
+  },
+  "authors": [
+    "Davis Miculis <davismiculis@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "keywords": [
+    "parallax",
+    "scrolling",
+    "scroll",
+    "effect",
+    "parally",
+    "jquery"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
