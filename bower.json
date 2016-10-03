@@ -5,7 +5,7 @@
   "version": "1.0.1",
   "main": "parally.js",
   "dependencies": {
-    "jquery": "latest"
+    "jquery": "~2.1"
   },
   "authors": [
     "Davis Miculis <davismiculis@gmail.com>"
